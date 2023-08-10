@@ -1,0 +1,16 @@
+.meals-container{
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+    
+}
+.meal-container{
+    margin-right: 20px;
+    border-right: 1px solid grey;
+}
+.meal-container img {
+    width: 250px;
+    
+}
+/* .cart-container h2{
+    text-align: center;
+} */
